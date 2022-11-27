@@ -1,0 +1,13 @@
+.caixa1 {
+    width: 300px;
+    height: 300px;
+    background: #b9c941;
+    padding: 50px;
+    box-sizing: border-box;  /****************** FAZ COM QUE O PADDING NÃO INTERFIRA NO WIDTH */
+}
+
+.caixa2 {
+    width: 300px;
+    height: 300px;
+    background: #b9c941;
+}
